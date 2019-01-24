@@ -1,0 +1,18 @@
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+<identifier identifierType="DOI">10.23640/07243.5036165.v1</identifier>
+<creators>
+<creator><creatorName>Kristi Holmes</creatorName></creator>
+</creators>
+<titles><title>Research, Representation, and Recognition through ORCID</title></titles>
+<publicationYear>2017</publicationYear>
+<publisher>ORCID</publisher>
+<subjects>
+<subject>ORCID</subject>
+<subject>Persistent Identifiers</subject>
+<subject>research infrastructure</subject>
+</subjects>
+<dates><date dateType="Issued">2017-05-24 15:54:07</date></dates>
+<resourceType resourceTypeGeneral="Text">article</resourceType>
+<alternateIdentifiers><alternateIdentifier alternateIdentifierType="URL">https://orcid.figshare.com/articles/Research_Representation_and_Recognition_through_ORCID/5036165</alternateIdentifier></alternateIdentifiers>
+<descriptions><description descriptionType="Abstract">"Research, Representation, and Recognition through ORCID" presented by Kristi Holmes (Northwestern University) at the ORCID US Roadshow in Chicago on April 27, 2017.</description></descriptions>
+</resource>
