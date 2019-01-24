@@ -14,7 +14,7 @@ We created this list to:
 For now, the list is stored as a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1SJ7EFyvqRd1fe6ZqqTG2EzvCVCvl-T8Woiv8FgHTawQ/edit?usp=sharing).
 
 ## Attribute Categories
-Currently, attributes are arranged using the following categories:
+Attributes are arranged using the following categories:
 
 1. General
 2. Metadata handling
