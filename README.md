@@ -25,4 +25,4 @@ Attributes are arranged using the following categories:
 7. Additional Info
 
 ## Contribution
-We welcome contributions from everyone, including suggestions and corrections!
+We welcome suggestions and corrections from everyone!
