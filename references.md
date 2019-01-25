@@ -1,6 +1,7 @@
+# References:
+
 I am still in the process of using these references to fill in the spreadsheet.
 
-#References:
 1. Castagné, M. "Institutional repository software comparison: DSpace, EPrints, Digital Commons, Islandora and Hydra", August 2013. [Link](https://open.library.ubc.ca/cIRcle/collections/graduateresearch/42591/items/1.0075768)
 2. [DSpace 6 vs. Other Solutions, October 2017.](https://groups.google.com/forum/#!topic/dspace-community/41sT6qDMAFU)
 3. Blewer, A. [The Collection Management System Collection](https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection/), 09 Aug 2017.[Direct Link](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit#gid=0)
