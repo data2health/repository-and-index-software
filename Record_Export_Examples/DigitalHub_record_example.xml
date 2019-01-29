@@ -1,0 +1,61 @@
+<http://----------------> a
+     <http://www.w3.org/ns/ldp#Container>,
+     <http://fedora.info/definitions/v4/repository#Container>,
+     <http://fedora.info/definitions/v4/repository#Resource>,
+     <http://pcdm.org/models#Object>;
+   <http://purl.org/dc/terms/title> "An outcome-weighted network model for quantifying and measuring collaboration in a hospital cardiology unit";
+   <http://bibframe.org/vocab/doi> "doi:10.18131/G3HC89";
+   <http://fedora.info/definitions/v4/repository#created> "2017-01-19T18:16:51.051Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+   <http://fedora.info/definitions/v4/repository#createdBy> "bypassAdmin";
+   <http://fedora.info/definitions/v4/repository#exportsAs> <http://----------/fcr:export?format=jcr/xml>;
+   <http://fedora.info/definitions/v4/repository#hasParent> <http://----------/fedora/rest/production>;
+   <http://fedora.info/definitions/v4/repository#lastModified> "2017-10-18T19:25:03.416Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+   <http://fedora.info/definitions/v4/repository#lastModifiedBy> "bypassAdmin";
+   <http://fedora.info/definitions/v4/repository#numberOfChildren> "4"^^<http://www.w3.org/2001/XMLSchema#int>;
+   <http://fedora.info/definitions/v4/repository#writable> true;
+   <http://galter.northwestern.edu/rdf/ark> "ark:/c8131/g3hc89";
+   <http://galter.northwestern.edu/rdf/grants_and_funding> "K01LM011973-01 (NLM)",
+     "Clinical and Translational Science Award (CTSA) award UL1TR001422";
+   <http://id.loc.gov/authorities/names> "Northwestern Memorial Hospital";
+   <http://id.loc.gov/vocabulary/relators/dpt> "mbc400";
+   <http://purl.org/dc/terms/LCSH> "Graph theory";
+   <http://purl.org/dc/terms/MESH> "Workflow",
+     "Cardiology Service, Hospital",
+     "Cooperative Behavior";
+   <http://purl.org/dc/terms/created> "2016-10-09";
+   <http://purl.org/dc/terms/creator> "Carson, Matthew Brandon",
+     "Scholtens, Denise M",
+     "Frailey, Conor F.",
+     "Gravenor, Stephanie Jasmine",
+     "Powell, Emilie Susan",
+     "Wang, Amy Y. Yunhsin",
+     "Kricke, Gayle Elisa",
+     "Ahmad, Faraz Shafique",
+     "Mutharasan, R Kannan",
+     "Soulakis, Nicholas Dean";
+   <http://purl.org/dc/terms/dateSubmitted> "2017-01-19T18:16:50.717052281+0000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+   <http://purl.org/dc/terms/description> "Poster presented at the American Medical Informatics Association (AMIA) 2016 Annual Symposium Nov. 12-16, Chicago, IL.";
+   <http://purl.org/dc/terms/language> "English";
+   <http://purl.org/dc/terms/modified> "2017-10-18T14:25:02.803190493-0500"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+   <http://purl.org/dc/terms/publisher> "Galter Health Sciences Library, Feinberg School of Medicine, Northwestern University";
+   <http://purl.org/dc/terms/relation> "collaboration",
+     "cardiology",
+     "workflow",
+     "graph database",
+     "affiliation networks";
+   <http://purl.org/dc/terms/rights> "http://creativecommons.org/licenses/by/4.0/";
+   <http://purl.org/dc/terms/type> "Poster";
+   <http://scholarsphere.psu.edu/ns#relativePath> "";
+   <http://www.w3.org/TR/xmlschema-2/#string> "";
+   <http://www.w3.org/ns/ldp#contains>
+     <http://--------------/content>,
+     <http://--------------/characterization>,
+     <http://--------------/full_text>,
+     <http://--------------/thumbnail>;
+   <http://xmlns.com/foaf/0.1/based_near> "Chicago, Illinois, United States";
+   <info:fedora/fedora-system:def/model#downloadFilename> "mcarson_AMIA_2016_Poster.pdf";
+   <info:fedora/fedora-system:def/model#hasModel> "GenericFile";
+   <info:fedora/fedora-system:def/relations-external#isPartOf> <http://------------------> .
+     <http://--------------/fcr:export?format=jcr/xml>
+<http://purl.org/dc/elements/1.1/format>
+<http://fedora.info/definitions/v4/repository#jcr/xml>
