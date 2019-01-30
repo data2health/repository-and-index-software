@@ -2,7 +2,7 @@
 
 I am still in the process of using these references to fill in the spreadsheet.
 
-1. [DSpace 6 vs. Other Solutions, October 2017.](https://groups.google.com/forum/#!topic/dspace-community/41sT6qDMAFU)
+1. [DSpace 6 vs. Other Solutions, October 2017](https://groups.google.com/forum/#!topic/dspace-community/41sT6qDMAFU)
 2. Blewer, A. [The Collection Management System Collection](https://bits.ashleyblewer.com/blog/2017/08/09/collection-management-system-collection/), 09 Aug 2017. [Direct Link](https://docs.google.com/spreadsheets/d/1cXOug3qM0pNNeD_wssiVEv9c0W1Y5I1VDTnSPTk7fb4/edit#gid=0)
 3. Amorim, R. C., Castro, J. A., Rocha da Silva, J., and Ribeiro, C. ["A comparison of research data management platforms: architecture, flexible metadata and interoperability", Universal Access in the Information Society"](https://doi.org/10.1007/s10209-016-0475-y), Vol. 16:4, pp. 851-862, 2017.
 4. [Repository Rodeo Redux 2017](https://cdsweb.cern.ch/record/2273321/files/or2017-repository-rodeo.pdf)
