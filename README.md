@@ -17,12 +17,13 @@ For now, the list is stored as a [Google Spreadsheet](https://docs.google.com/sp
 Attributes are arranged using the following categories:
 
 1. General
-2. Metadata handling
-3. Next-gen repo features
-4. Dissemination
-5. Preservation
-6. Coding
-7. Additional Info
+2. Architecture
+3. Metadata handling
+4. Next-gen repo features
+5. Dissemination
+6. Preservation
+7. Coding
+8. Additional Info
 
 ## Contribution
 We welcome suggestions and corrections from everyone!
