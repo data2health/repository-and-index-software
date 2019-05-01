@@ -7,7 +7,7 @@ This is a list of **repositories, repository frameworks, and data catalogs**. It
 We created this list to:
 
 1. Provide a "lay of the land" summary of existing software
-2. Identify important features (especially those that fall in the "next generation repository" category) that we'll want to incorporate in our repository and data index project, [menRva](https://github.com/data2health/menRva).
+2. Identify important features (especially those that fall in the "next generation repository" category) that we'll want to incorporate in our repository and data index project, [menRva](https://github.com/data2health/menRva)
 3. Identify the tools that may have some level of interoperability with our project
 
 ## Accessing the List
