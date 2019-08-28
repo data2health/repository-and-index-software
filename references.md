@@ -14,3 +14,4 @@ I am still in the process of using these references to fill in the spreadsheet.
 10.	[Registry of Research Data Repositories](https://www.re3data.org/)
 11. [Recommended Data Repostiories](https://www.nature.com/sdata/policies/repositories)
 12. [Free Institutional Repository Software (Wikipedia)](https://en.wikipedia.org/wiki/Category:Free_institutional_repository_software)
+13. [The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296) by Diana Kwon, The Scientist, Aug 19, 2019.
