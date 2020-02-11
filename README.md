@@ -3,6 +3,8 @@
 ## Summary
 This is a list of **repositories, repository frameworks, and data catalogs**. It focuses on technical architecture, how metadata is handled and what standards are used, and what next-generation repository features (if any) are implemented.
 
+Are you a tool steward or user?  Please visit the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1SJ7EFyvqRd1fe6ZqqTG2EzvCVCvl-T8Woiv8FgHTawQ/edit?usp=sharing) and share updates.  We are migrating these data to a wikipedia page.  Please contact the project team if you'd like to be part of this effort.  We'd love to hear your perspective!
+
 ## Purpose
 We created this list to:
 
